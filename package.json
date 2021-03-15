@@ -1,0 +1,27 @@
+{
+  "name": "defi-dex",
+  "version": "1.0.0",
+  "description": "Decentralized exchange for ERC20 tokens",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knnlrts/defi-dex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knnlrts/defi-dex/issues"
+  },
+  "homepage": "https://github.com/knnlrts/defi-dex#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "@openzeppelin/test-helpers": "^0.5.10"
+  }
+}
