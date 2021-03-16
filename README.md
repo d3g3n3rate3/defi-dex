@@ -1,4 +1,4 @@
-Decentralized exchange for ERC20
+Decentralized exchange for ERC20 token trading
 
 **TODO:**
 
